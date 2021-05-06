@@ -1,0 +1,76 @@
+body {
+    background-color: #202024;
+}
+
+.h-vh80{
+    height: 80vh;
+}
+
+.h40{
+    height: 40vh;
+}
+.bg-banner {
+    background-image: url("https://i.pinimg.com/originals/a3/9f/9e/a39f9e5d01444a453752cf25d4d350a8.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    filter: sepia(20%);
+}
+
+.flex-center-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.text-banner{
+    height: 100%;
+    color: white;
+    font-family: sans-serif;
+}
+
+.img-hv{
+    width: 50%;
+
+}
+
+.bg-card{
+    background-color: #3c3c44;
+    color:white;
+    text-align: center;
+}
+
+.button1{
+    background-color: #2f9790;
+    width: 100%;
+    color: white;
+
+}
+.button2{
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+
+.button3{
+    background-color:gold;
+    width: 100%;
+    color: white;
+}
+
+.button4{
+    background-color:rgb(95, 29, 29);
+    width: 100%;
+    color: white; 
+}
+.button5{
+    background-color:rgb(181, 86, 86);
+    width: 100%;
+    color: white; 
+}
+.button6{
+    background-color:rgb(218 185 133);
+    width: 100%;
+    color: white; 
+}
